@@ -1,3 +1,3 @@
 # Mobile Application Design and Development (Workshop From Lab#1) --> Frontend
 
-![banner](https://github.com/user-attachments/assets/f0801708-3636-4f1e-97d9-3f769f8d77a0)
+![Image](https://github.com/user-attachments/assets/c598e1d8-7745-412e-b2fb-8c472efad003)
